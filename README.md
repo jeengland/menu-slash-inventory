@@ -5,6 +5,18 @@ A concept for an integrated online ordering and inventory system
 
 Create a combined ordering and inventory application for restaurants that interact with each other to make inventory management easier for restaurant owners
 
+#### Important Links
+
+- [Trello Board](https://trello.com/b/aD7wq5pI/menu-inventory)
+- [Current Release Canvas](https://github.com/jeengland/menu-slash-inventory/blob/main/planning/release-canvases/rc1.md)
+
+#### README Contents
+
+- [Problems](#problems)
+- [Demographics](#target-demographics)
+- [Upcoming Release](#upcoming-release)
+- [Future Plans](#future-plans)
+
 ### Problems
 
 - Traditional online ordering applications don't account for restaurant inventory and might let customers order something that the restaurant is unable to make
